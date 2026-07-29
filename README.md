@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![Loan Analysis Dashboard](Loan-Analysis%20Dashboard.PNG)
+![Loan Analysis Dashboard](Loan%20Analysis%20Dashboard.PNG)
 
 ## 📌 Project Overview
 This project is an interactive Loan Analysis Dashboard built using Microsoft Excel. It provides insights into loan applications through KPI cards, Pivot Tables, Pivot Charts, and interactive slicers.
